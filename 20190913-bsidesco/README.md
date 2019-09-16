@@ -158,5 +158,9 @@ Sorprendente! Aca esta la bandera: BSidesCo{m4gi4_MAG1a-b5G_BU6}
 oscar@asgard:~/WORKSPACE/ctf/bsides$
 ```
 
+La bandera es:
+
+**_BSidesCo{m4gi4_MAG1a-b5G_BU6}_**
+
 
 ## web
